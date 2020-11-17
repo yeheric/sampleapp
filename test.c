@@ -1,4 +1,6 @@
+void log(char *msg);
+
 void test()
 {
-	printf("test\n");
+	log("test\n");
 }
